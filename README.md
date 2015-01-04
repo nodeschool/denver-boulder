@@ -8,9 +8,31 @@ Hi all, welcome to the repo for the Denver/Boulder NodeSchool!
 
 http://nodeschool.io/denver-boulder
 
-site issues: https://github.com/nodeschool/denver-boulder/labels/site
+**issues**: https://github.com/nodeschool/denver-boulder/labels/site
+
+### Developing
+
+The site uses [wintersmith][wintersmith]
+
+```shell
+npm install -g wintersmith
+```
+
+To develop/preview locally:
+
+```shell
+wintersmith preview
+```
+
+To build static site to `build`:
+
+```shell
+wintersmith build
+```
 
 Cheers!
 -Richard
 github: ralucas
 twitter: @r_a_lucas
+
+[wintersmith]: https://github.com/jnordberg/wintersmith
