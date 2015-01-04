@@ -17,7 +17,7 @@ Where: Code Talent in Denver
 
 What is Nodeschool
 ------------------
-(NodeSchool.io)[http://www.nodeschool.io] is a open source community that helps interested beginners get started with Node.js.
+[NodeSchool.io](http://www.nodeschool.io) is a open source community that helps interested beginners get started with Node.js.
 
 NodeSchool has installable choose-your-own-adventure style lessons to learn how to use Node.js, npm and other related tools by writing code to solve realistic problems.  You can head over to http://nodeschool.io/ and check out the courses.
 
