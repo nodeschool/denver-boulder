@@ -12,8 +12,9 @@ Thu Jan 15th: [Dependency Injection][next-event]
 Next Nodeschool
 ---------------
 
-Monday Jan 19th: [next-nodeschool]
-Where: Code Talent in Denver
+Monday Jan 19th: [Nodeschool][next-nodeschool]  
+Where: Code Talent in Denver  
+Time: 6:30pm  
 
 What is Nodeschool
 ------------------
