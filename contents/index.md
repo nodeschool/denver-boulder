@@ -1,5 +1,5 @@
 ---
-title: Nodeschool Denver/Boulder 
+title: Nodeschool Denver/Boulder
 template: index.jade
 ---
 
@@ -7,14 +7,14 @@ template: index.jade
 Next Node.js Event
 ------------------
 
-Thu Jan 15th: [Dependency Injection][next-event]
+Mon Feb 16th: [Node on Docker - from development to delivery][next-event]
 
 Next Nodeschool
 ---------------
 
-Monday Jan 19th: [Nodeschool][next-nodeschool]  
-Where: Code Talent in Denver  
-Time: 6:30pm  
+Monday Jan 19th: [Nodeschool][next-nodeschool]
+Where: Code Talent in Denver
+Time: 6:30pm
 
 What is Nodeschool
 ------------------
@@ -44,5 +44,5 @@ Join Us
   on github to collaborate
 </div>
 
-[next-event]: http://www.meetup.com/Node-js-Denver-Boulder/events/219579853/
+[next-event]: http://www.meetup.com/Node-js-Denver-Boulder/events/220299409/
 [next-nodeschool]: http://www.meetup.com/Node-js-Denver-Boulder/events/219598106/
