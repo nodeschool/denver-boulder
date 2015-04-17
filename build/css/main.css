@@ -2,11 +2,13 @@
  * Hello.
  */
 
+ @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,900,400italic,600italic);
+
 html, body {
   font-size: 50px;
   margin: 0;
   padding: 0;
-  font-family: 'Arvo', serif;
+  font-family: 'Source Sans Pro', serif;
 }
 
 a {
@@ -28,6 +30,16 @@ header h1 {
   margin: 0;
   color: white;
   text-shadow: 1px 1px 1px black;
+}
+
+h2 {
+  font-size: 1em;
+}
+h3 {
+  font-size: .75em;
+}
+p {
+  font-size: .5em;
 }
 
 .container {
